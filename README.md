@@ -193,6 +193,6 @@ Back in the **Manager** console, you can type:
 
 ## License
 
-MIT License
+MIT License 
 
 **Enjoy building and demonstrating your DHT-based Storm Event Tracker!**
